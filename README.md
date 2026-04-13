@@ -20,5 +20,5 @@ rm -rf "task folder path"
 
 Please feel free to email col024@ucsd.edu if you run into any issues while running the notebook or if you have any questions.
 
-Thank you so much for hosting this data challenge. We genuinely enjoyed exploring the geospatial datasets and applying our data science skills to analyze vegetation and soil moisture across different states in ways that can hopefully help support real world agricultural decisions.
+Thank you so much for hosting this data challenge. We genuinely enjoyed exploring the geospatial datasets and applying our data science skills to analyze vegetation and soil moisture across different states, and to build a ML classification model of crop types in ways that can hopefully help support real world agricultural decisions!!
 
