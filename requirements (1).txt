@@ -1,0 +1,5 @@
+matplotlib
+Pillow
+Pandas
+rasterio
+scikit-learn
